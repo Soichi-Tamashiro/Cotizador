@@ -1,0 +1,27 @@
+ScreenManager:
+    ScreenOne:
+        name: "screen1"
+        BoxLayout:
+            orientation: "vertical"
+            TextInput:
+                id: _player_name
+                text: _final_playername.text
+            Button:
+                text: "Change Label on Screen 2"
+                on_release:
+                    _final_playername.text = _player_name.text
+            Button:
+                text: "Next Screen"
+                on_release:
+                    root.current = "screen2"
+    ScreenTwo:
+        name: "screen2"
+        BoxLayout:
+            orientation: "vertical"
+            Label:
+                text: "Default Text"
+                id: _final_playername
+            Button:
+                text: "Prev Screen"
+                on_release:
+                    root.current = "screen1"

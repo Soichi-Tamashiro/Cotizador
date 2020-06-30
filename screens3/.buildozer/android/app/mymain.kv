@@ -1,0 +1,216 @@
+WindowManager:
+    MainWindow:
+    SecondWindow:
+
+<MainWindow>:
+    name:"main"
+
+    altura: altura
+    gsd: gsd
+    espaciamiento: espaciamiento
+    tarifa: tarifa
+    zona_plana: zona_plana
+    cerros: cerros
+    rend_estd: rend_estd
+    rend_redc: rend_redc
+    peso: peso
+
+    GridLayout:
+        cols:1
+        size: root.width-50, root.height-50
+        pos: 25, 25
+        GridLayout:
+            id: Conf_Alt
+            cols:3
+            size_hint:(.1,None)
+            height:(root.height)*0.0625*2
+            BoxLayout:
+                orientation: "vertical"
+                Label:
+                    text:"Altura"
+                TextInput:
+                    id: altura
+                    multiline: False
+                    cursor_width: 3
+            BoxLayout:
+                orientation: "vertical"
+                Label:
+                    text:"GSD"
+                TextInput:
+                    id: gsd
+                    multiline:False
+                    readonly: True
+            BoxLayout:
+                orientation: "vertical"
+                Label:
+                    text:"Espaciamiento"
+                TextInput:
+                    id: espaciamiento
+                    multiline:False
+                    readonly: True
+        BoxLayout:
+            id: Conf_Tarifa
+            orientation: "horizontal"
+            size_hint:(.1,None)
+            height:(root.height)*0.0625*1
+            Label:
+                text:"Tarifa x día"
+            TextInput:
+                id: tarifa
+                multiline:False
+        BoxLayout:
+            id: Conf_Calcular
+            orientation: "vertical"
+            size_hint:(.1,None)
+            height:(root.height)*0.0625*11
+            BoxLayout:
+                id: Geografia
+                orientation: "vertical"
+                Label:
+                    text:"Geografía ha/día"
+                GridLayout:
+                    cols:2
+                    Label:
+                        text:"% Zona Plana"
+                    Label:
+                        text:"% Cerros"
+                    TextInput:
+                        id: zona_plana
+                        multiline:False
+                    TextInput:
+                        id: cerros
+                        multiline:False
+                        readonly: True
+            BoxLayout:
+                id: Rendimiento_alt
+                orientation: "vertical"
+                Label:
+                    text:"Rendimiento x Altitud"
+                GridLayout:
+                    cols:2
+                    Label:
+                        text:"% Hasta 3000 msnm"
+                    Label:
+                        text:"% Sobre 3000 msnm"
+                    TextInput:
+                        id: rend_estd
+                        multiline:False
+                    TextInput:
+                        id: rend_redc
+                        multiline:False
+                        readonly: True
+            BoxLayout:
+                id: Rendimiento_peso
+                orientation: "vertical"
+                Label:
+                    text:"Rendimiento x Peso"
+                Label:
+                    text:"2Kg = 100"
+                Label:
+                    text:"4Kg = 50"
+                Label:
+                    text:"6Kg = 25"
+                TextInput:
+                    id:peso
+                    multiline:False
+        Button:
+            size_hint:(.1,None)
+            height:(root.height)*0.0625*2
+            text : "Calcular"
+            on_press: root.btn()
+            on_release:
+                app.root.current = "second"
+                root.manager.transition.direction = "left"
+
+<SecondWindow>:
+    name: "second"
+    GridLayout:
+        cols:1
+        BoxLayout:
+            id: Precio_Tarifa
+            orientation: "horizontal"
+            size_hint:(.1,None)
+            height:(root.height)*0.0625*1
+            Label:
+                text:"Tarifa"
+            TextInput:
+                id: tarifa
+                multiline:False
+                readonly: True
+        BoxLayout:
+            id: Rend_Tarifa
+            orientation: "horizontal"
+            size_hint:(.1,None)
+            height:(root.height)*0.0625*1
+            Label:
+                text:"Rendimiento día/ha"
+            TextInput:
+                id: rend_tarifa
+                multiline:False
+                readonly: True
+        GridLayout:
+            cols:6
+            size_hint:(.1,None)
+            height:(root.height)*0.0625*2
+            BoxLayout:
+                orientation: "vertical"
+                Label:
+                    text:"Semanas de Plazo"
+                TextInput:
+                    id: semanas
+                    multiline:False
+                    readonly: True
+            BoxLayout:
+                orientation: "vertical"
+                Label:
+                    text:"Hectareas"
+                GridLayout:
+                    cols:2
+                    TextInput:
+                        id: hectareas_min
+                        multiline:False
+                        readonly: True
+                    TextInput:
+                        id: hectareas_max
+                        multiline:False
+                        readonly: True
+            BoxLayout:
+                orientation: "vertical"
+                Label:
+                    text:"Km Lineales"
+                TextInput:
+                    id: km_lineales
+                    multiline:False
+                    readonly: True
+            BoxLayout:
+                orientation: "vertical"
+                Label:
+                    text:"Días"
+                TextInput:
+                    id: dias
+                    multiline:False
+                    readonly: True
+            BoxLayout:
+                orientation: "vertical"
+                Label:
+                    text:"Costo"
+                TextInput:
+                    id: costo
+                    multiline:False
+                    readonly: True
+            BoxLayout:
+                orientation: "vertical"
+                Label:
+                    text:"Costo x ha"
+                TextInput:
+                    id: costo_ha
+                    multiline:False
+                    readonly: True
+
+
+
+        Button:
+            text: "Go Back"
+            on_release:
+                app.root.current = "main"
+                root.manager.transition.direction = "right"
