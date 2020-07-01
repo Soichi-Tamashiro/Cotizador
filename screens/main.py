@@ -177,7 +177,6 @@ class WindowManager(ScreenManager):
 
 kv = Builder.load_file("mymain.kv")
 
-
 class MyMainApp(App):
     def build(self):
         return kv
