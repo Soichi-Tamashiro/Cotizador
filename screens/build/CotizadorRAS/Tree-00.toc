@@ -1,0 +1,1407 @@
+('D:\\Documents\\Robotic Air Systems\\Cotizador\\screens',
+ None,
+ [],
+ 'DATA',
+ [('buildozer.spec',
+   'D:\\Documents\\Robotic Air Systems\\Cotizador\\screens\\buildozer.spec',
+   'DATA'),
+  ('CotizadorRAS.spec',
+   'D:\\Documents\\Robotic Air Systems\\Cotizador\\screens\\CotizadorRAS.spec',
+   'DATA'),
+  ('main.py',
+   'D:\\Documents\\Robotic Air Systems\\Cotizador\\screens\\main.py',
+   'DATA'),
+  ('mpdesktop.ico',
+   'D:\\Documents\\Robotic Air Systems\\Cotizador\\screens\\mpdesktop.ico',
+   'DATA'),
+  ('mymain.kv',
+   'D:\\Documents\\Robotic Air Systems\\Cotizador\\screens\\mymain.kv',
+   'DATA'),
+  ('__pycache__\\main.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\__pycache__\\main.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-console-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-console-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-datetime-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-datetime-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-debug-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-debug-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-file-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-file-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-file-l1-2-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-file-l1-2-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-file-l2-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-file-l2-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-handle-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-handle-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-heap-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-heap-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-localization-l1-2-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-localization-l1-2-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-memory-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-memory-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-profile-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-profile-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-string-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-string-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-synch-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-synch-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-synch-l1-2-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-synch-l1-2-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-timezone-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-timezone-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-core-util-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-core-util-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-conio-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-conio-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-convert-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-convert-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-environment-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-environment-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-heap-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-heap-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-locale-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-locale-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-math-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-math-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-process-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-process-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-string-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-string-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-time-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-time-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\api-ms-win-crt-utility-l1-1-0.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\api-ms-win-crt-utility-l1-1-0.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\base_library.zip',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\base_library.zip',
+   'DATA'),
+  ('dist\\CotizadorRAS\\CotizadorRAS.exe',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\CotizadorRAS.exe',
+   'DATA'),
+  ('dist\\CotizadorRAS\\CotizadorRAS.exe.manifest',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\CotizadorRAS.exe.manifest',
+   'DATA'),
+  ('dist\\CotizadorRAS\\freetype.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\freetype.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\glew32.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\glew32.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\libcrypto-1_1-x64.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\libcrypto-1_1-x64.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\libfreetype-6.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\libfreetype-6.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\libiomp5md.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\libiomp5md.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\liblzma.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\liblzma.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\libpng16.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\libpng16.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\libssl-1_1-x64.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\libssl-1_1-x64.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\libzstd.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\libzstd.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mfc140u.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mfc140u.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_avx.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_avx.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_avx2.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_avx2.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_avx512.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_avx512.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_blacs_ilp64.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_blacs_ilp64.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_blacs_intelmpi_ilp64.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_blacs_intelmpi_ilp64.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_blacs_intelmpi_lp64.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_blacs_intelmpi_lp64.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_blacs_lp64.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_blacs_lp64.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_blacs_mpich2_ilp64.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_blacs_mpich2_ilp64.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_blacs_mpich2_lp64.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_blacs_mpich2_lp64.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_blacs_msmpi_ilp64.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_blacs_msmpi_ilp64.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_blacs_msmpi_lp64.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_blacs_msmpi_lp64.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_cdft_core.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_cdft_core.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_core.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_core.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_def.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_def.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_intel_thread.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_intel_thread.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_mc.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_mc.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_mc3.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_mc3.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_msg.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_msg.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_pgi_thread.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_pgi_thread.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_rt.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_rt.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_scalapack_ilp64.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_scalapack_ilp64.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_scalapack_lp64.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_scalapack_lp64.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_sequential.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_sequential.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_tbb_thread.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_tbb_thread.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_vml_avx.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_vml_avx.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_vml_avx2.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_vml_avx2.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_vml_avx512.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_vml_avx512.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_vml_cmpt.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_vml_cmpt.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_vml_def.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_vml_def.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_vml_mc.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_vml_mc.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_vml_mc2.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_vml_mc2.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl_vml_mc3.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl_vml_mc3.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mpdesktop.ico',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mpdesktop.ico',
+   'DATA'),
+  ('dist\\CotizadorRAS\\MSVCP140.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\MSVCP140.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mymain.kv',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mymain.kv',
+   'DATA'),
+  ('dist\\CotizadorRAS\\pyexpat.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\pyexpat.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\python37.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\python37.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\pythoncom37.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\pythoncom37.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\pywintypes37.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\pywintypes37.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\SDL2.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\SDL2.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\SDL2_image.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\SDL2_image.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\SDL2_mixer.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\SDL2_mixer.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\SDL2_ttf.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\SDL2_ttf.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\select.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\select.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\tbb.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\tbb.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\tiff.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\tiff.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\ucrtbase.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\ucrtbase.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\unicodedata.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\unicodedata.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\VCRUNTIME140.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\VCRUNTIME140.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\win32api.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\win32api.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\win32evtlog.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\win32evtlog.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\win32file.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\win32file.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\win32gui.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\win32gui.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\win32pdh.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\win32pdh.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\win32trace.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\win32trace.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\win32ui.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\win32ui.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\win32wnet.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\win32wnet.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\zlib.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\zlib.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\zlib1.dll',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\zlib1.dll',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_asyncio.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_asyncio.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_bz2.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_bz2.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_cffi_backend.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_cffi_backend.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_ctypes.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_ctypes.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_decimal.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_decimal.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_elementtree.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_elementtree.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_hashlib.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_hashlib.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_lzma.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_lzma.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_multiprocessing.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_multiprocessing.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_overlapped.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_overlapped.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_queue.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_queue.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_socket.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_socket.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_ssl.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_ssl.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\_win32sysloader.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\_win32sysloader.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\win32com\\shell\\shell.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\win32com\\shell\\shell.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\scipy\\_lib\\messagestream.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\scipy\\_lib\\messagestream.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\scipy\\_lib\\_ccallback_c.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\scipy\\_lib\\_ccallback_c.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\scipy\\_lib\\_fpumode.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\scipy\\_lib\\_fpumode.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\scipy\\_lib\\_uarray\\_uarray.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\scipy\\_lib\\_uarray\\_uarray.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\scipy\\fft\\_pocketfft\\pypocketfft.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\scipy\\fft\\_pocketfft\\pypocketfft.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\psutil\\_psutil_windows.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\psutil\\_psutil_windows.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\PIL\\_imaging.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\PIL\\_imaging.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\PIL\\_imagingft.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\PIL\\_imagingft.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\PIL\\_imagingtk.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\PIL\\_imagingtk.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\random\\mtrand.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\random\\mtrand.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\random\\_bit_generator.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\random\\_bit_generator.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\random\\_bounded_integers.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\random\\_bounded_integers.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\random\\_common.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\random\\_common.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\random\\_generator.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\random\\_generator.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\random\\_mt19937.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\random\\_mt19937.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\random\\_pcg64.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\random\\_pcg64.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\random\\_philox.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\random\\_philox.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\random\\_sfc64.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\random\\_sfc64.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\linalg\\lapack_lite.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\linalg\\lapack_lite.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\linalg\\_umath_linalg.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\linalg\\_umath_linalg.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\fft\\_pocketfft_internal.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\fft\\_pocketfft_internal.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\core\\_multiarray_tests.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\core\\_multiarray_tests.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\numpy\\core\\_multiarray_umath.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\numpy\\core\\_multiarray_umath.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl\\_mklinit.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl\\_mklinit.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\mkl\\_py_mkl_service.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\mkl\\_py_mkl_service.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\lib2to3\\Grammar.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\lib2to3\\Grammar.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\lib2to3\\Grammar3.7.6.final.0.pickle',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\lib2to3\\Grammar3.7.6.final.0.pickle',
+   'DATA'),
+  ('dist\\CotizadorRAS\\lib2to3\\PatternGrammar.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\lib2to3\\PatternGrammar.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\lib2to3\\PatternGrammar3.7.6.final.0.pickle',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\lib2to3\\PatternGrammar3.7.6.final.0.pickle',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\console.py',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\console.py',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\cursor.py',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\cursor.py',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\inspector.py',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\inspector.py',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\joycursor.py',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\joycursor.py',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\keybinding.py',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\keybinding.py',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\monitor.py',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\monitor.py',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\recorder.py',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\recorder.py',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\screen.py',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\screen.py',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\showborder.py',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\showborder.py',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\touchring.py',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\touchring.py',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\webdebugger.py',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\webdebugger.py',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\_webdebugger.py',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\_webdebugger.py',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__init__.py',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__init__.py',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\console.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\console.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\cursor.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\cursor.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\inspector.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\inspector.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\joycursor.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\joycursor.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\keybinding.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\keybinding.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\monitor.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\monitor.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\recorder.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\recorder.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\screen.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\screen.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\showborder.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\showborder.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\touchring.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\touchring.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\__init__.cpython-37.pyc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\modules\\__pycache__\\__init__.cpython-37.pyc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\settings_kivy.json',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\settings_kivy.json',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\style.kv',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\style.kv',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\azerty.json',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\de.json',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\de.json',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\de_CH.json',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\en_US.json',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\qwerty.json',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\qwertz.json',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\images\\background.jpg',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\images\\background.jpg',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\images\\cursor.png',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\images\\cursor.png',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\images\\defaultshape.png',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\images\\image-loading.gif',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\images\\testpattern.png',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\images\\testpattern.png',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\glsl\\default.fs',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\glsl\\default.fs',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\glsl\\default.png',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\glsl\\default.png',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\glsl\\default.vs',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\glsl\\default.vs',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\glsl\\header.fs',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\glsl\\header.fs',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\glsl\\header.vs',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\glsl\\header.vs',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\properties.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\properties.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\weakproxy.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\weakproxy.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\_clock.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\_clock.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\_event.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\_event.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\buffer.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\buffer.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\cgl.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\cgl.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\compiler.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\compiler.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\context.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\context.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\context_instructions.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\context_instructions.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\fbo.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\fbo.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\gl_instructions.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\gl_instructions.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\instructions.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\instructions.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\opengl.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\opengl.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\opengl_utils.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\opengl_utils.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\scissor_instructions.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\scissor_instructions.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\shader.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\shader.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\stencil_instructions.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\stencil_instructions.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\svg.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\svg.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\tesselator.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\tesselator.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\texture.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\texture.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\transformation.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\transformation.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\vbo.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\vbo.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\vertex.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\vertex.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\vertex_instructions.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\vertex_instructions.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\cgl_backend\\cgl_debug.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\cgl_backend\\cgl_debug.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\cgl_backend\\cgl_gl.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\cgl_backend\\cgl_gl.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\cgl_backend\\cgl_glew.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\cgl_backend\\cgl_glew.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\cgl_backend\\cgl_mock.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\cgl_backend\\cgl_mock.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\core\\window\\window_info.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\core\\window\\window_info.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\core\\window\\_window_sdl2.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\core\\window\\_window_sdl2.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\core\\text\\text_layout.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\core\\text\\text_layout.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\core\\text\\_text_sdl2.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\core\\text\\_text_sdl2.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\core\\image\\_img_sdl2.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\core\\image\\_img_sdl2.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\core\\clipboard\\_clipboard_sdl2.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\core\\clipboard\\_clipboard_sdl2.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\kivy\\core\\audio\\audio_sdl2.cp37-win_amd64.pyd',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\kivy\\core\\audio\\audio_sdl2.cp37-win_amd64.pyd',
+   'DATA'),
+  ('dist\\CotizadorRAS\\Include\\pyconfig.h',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\Include\\pyconfig.h',
+   'DATA'),
+  ('dist\\CotizadorRAS\\importlib_metadata-1.5.0-py3.7.egg-info\\INSTALLER',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\importlib_metadata-1.5.0-py3.7.egg-info\\INSTALLER',
+   'DATA'),
+  ('dist\\CotizadorRAS\\importlib_metadata-1.5.0-py3.7.egg-info\\LICENSE',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\importlib_metadata-1.5.0-py3.7.egg-info\\LICENSE',
+   'DATA'),
+  ('dist\\CotizadorRAS\\importlib_metadata-1.5.0-py3.7.egg-info\\METADATA',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\importlib_metadata-1.5.0-py3.7.egg-info\\METADATA',
+   'DATA'),
+  ('dist\\CotizadorRAS\\importlib_metadata-1.5.0-py3.7.egg-info\\RECORD',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\importlib_metadata-1.5.0-py3.7.egg-info\\RECORD',
+   'DATA'),
+  ('dist\\CotizadorRAS\\importlib_metadata-1.5.0-py3.7.egg-info\\top_level.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\importlib_metadata-1.5.0-py3.7.egg-info\\top_level.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\importlib_metadata-1.5.0-py3.7.egg-info\\WHEEL',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\importlib_metadata-1.5.0-py3.7.egg-info\\WHEEL',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\pep_html\\pep.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\pep_html\\template.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\odf_odt\\styles.odt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\latex2e\\default.tex',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\latex2e\\titlepage.tex',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\latex2e\\xelatex.tex',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\html5_polyglot\\math.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\html5_polyglot\\plain.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\html5_polyglot\\template.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\html4css1\\html4css1.css',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\writers\\html4css1\\template.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\README.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\dist\\CotizadorRAS\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('CotizadorRAS\\CotizadorRAS.spec',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\CotizadorRAS\\CotizadorRAS.spec',
+   'DATA'),
+  ('build\\CotizadorRAS\\Analysis-00.toc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\Analysis-00.toc',
+   'DATA'),
+  ('build\\CotizadorRAS\\base_library.zip',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\base_library.zip',
+   'DATA'),
+  ('build\\CotizadorRAS\\COLLECT-00.toc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\COLLECT-00.toc',
+   'DATA'),
+  ('build\\CotizadorRAS\\CotizadorRAS.exe',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\CotizadorRAS.exe',
+   'DATA'),
+  ('build\\CotizadorRAS\\CotizadorRAS.exe.manifest',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\CotizadorRAS.exe.manifest',
+   'DATA'),
+  ('build\\CotizadorRAS\\EXE-00.toc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\EXE-00.toc',
+   'DATA'),
+  ('build\\CotizadorRAS\\PKG-00.pkg',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\PKG-00.pkg',
+   'DATA'),
+  ('build\\CotizadorRAS\\PKG-00.toc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\PKG-00.toc',
+   'DATA'),
+  ('build\\CotizadorRAS\\PYZ-00.pyz',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\PYZ-00.pyz',
+   'DATA'),
+  ('build\\CotizadorRAS\\PYZ-00.toc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\PYZ-00.toc',
+   'DATA'),
+  ('build\\CotizadorRAS\\Tree-00.toc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\Tree-00.toc',
+   'DATA'),
+  ('build\\CotizadorRAS\\Tree-01.toc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\Tree-01.toc',
+   'DATA'),
+  ('build\\CotizadorRAS\\Tree-02.toc',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\Tree-02.toc',
+   'DATA'),
+  ('build\\CotizadorRAS\\warn-CotizadorRAS.txt',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\warn-CotizadorRAS.txt',
+   'DATA'),
+  ('build\\CotizadorRAS\\xref-CotizadorRAS.html',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\build\\CotizadorRAS\\xref-CotizadorRAS.html',
+   'DATA'),
+  ('bin\\Cotizador_RAS-0.1-armeabi-v7a-debug.apk',
+   'D:\\Documents\\Robotic Air '
+   'Systems\\Cotizador\\screens\\bin\\Cotizador_RAS-0.1-armeabi-v7a-debug.apk',
+   'DATA')])
