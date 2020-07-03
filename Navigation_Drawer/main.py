@@ -6,7 +6,7 @@ from kivymd.app import MDApp
 from kivymd.theming import ThemableBehavior
 from kivymd.uix.list import OneLineIconListItem, MDList
 
-KV='''
+KV = '''
 # Menu item in the DrawerList list.
 <ItemDrawer>:
     theme_text_color : "Custom"
@@ -72,11 +72,15 @@ Screen:
                 id: content_drawer
 
 '''
+
+
 class ContentNavigationDrawer(BoxLayout):
     pass
 
+
 class ItemDrawer(OneLineIconListItem):
     icon = StringProperty()
+
 
 class DrawerList(ThemableBehavior, MDList):
     def set_color_item(self, instance_item):
@@ -89,12 +93,13 @@ class DrawerList(ThemableBehavior, MDList):
                 break
         instance_item.text_color = self.theme_cls.primary_color
 
+
 class TestNavigationDrawer(MDApp):
     def build(self):
         return Builder.load_string(KV)
 
     def on_start(self):
-        icons_item ={
+        icons_item = {
             "folder": "My Files",
             "account-multiple": "Shared with me",
             "star": "Starred",
@@ -106,5 +111,6 @@ class TestNavigationDrawer(MDApp):
             self.root.ids.content_drawer.ids.md_list.add_widget(
                 ItemDrawer(icon=icon_name, text=icons_item[icon_name])
             )
+
 
 TestNavigationDrawer().run()

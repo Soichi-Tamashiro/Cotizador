@@ -44,6 +44,7 @@ class MainWindow(Screen):
     dias_text = StringProperty()
 
     def btn(self):
+        # print(self.ids.keys())
         _alt = self.altura.text
         _gsd = self.gsd.text
         _espaciamiento = self.espaciamiento.text
@@ -176,6 +177,7 @@ class WindowManager(ScreenManager):
 
 
 kv = Builder.load_file("mymain.kv")
+
 
 class MyMainApp(App):
     def build(self):
