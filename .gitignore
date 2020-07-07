@@ -1,4 +1,7 @@
 .buildozer/
+dist/
+build/
+bin/
 # Compiled source #
 ###################
 *.com

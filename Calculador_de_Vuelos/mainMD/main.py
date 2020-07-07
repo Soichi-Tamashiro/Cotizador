@@ -144,8 +144,8 @@ class SecondWindow(Screen, Widget):
             self.hectareas_min.text = str(h_min)
             self.hectareas_max.text = str(h_max)
             self.km_lineales.text = str(round(km,2))+ " "+ "Km"
-            self.costo.text = str(round(costo_total,2))
-            self.costo_ha.text = str(round(costo_por_ha,3))
+            self.costo.text = "S/."+str(round(costo_total,2))
+            self.costo_ha.text = "S/."+str(round(costo_por_ha,3))
 
         # if(self.peso.text!="" and )
         #     km=ha/12*cant_dias*p/100
