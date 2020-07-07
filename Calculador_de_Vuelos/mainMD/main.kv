@@ -1,0 +1,321 @@
+#:import hex kivy.utils.get_color_from_hex
+<MyLabel@MDLabel>:
+    # text_size : self.size
+    halign: "center"
+    valign: 'center'
+    # font_style: 'H1'
+    # color: 0,0,0,1
+    md_bg_color: app.theme_cls.primary_dark
+<MyTextInput@MDTextFieldRect>:
+    input_filter: 'float'
+    write_tab: False
+    halign: "center"
+    # on_text_validate:
+    multiline:False
+    # size_hint: 1, None
+    height: "30dp"
+<WindowManager>:
+    canvas.before:
+        Color:
+            # rgba: hex('#000000')
+            # rgba: hex('ffca3a')
+        Rectangle:
+            size: self.size
+            pos: self.pos
+    MainWindow:
+        name: "main"
+    SecondWindow:
+        name: "second"
+
+<MainWindow>
+    # Variables
+    altura: altura
+    gsd: gsd
+    espaciamiento: espaciamiento
+    tarifa: tarifa
+    zona_plana: zona_plana
+    cerros: cerros
+    rend_estd: rend_estd
+    rend_redc: rend_redc
+    peso: peso
+    MDGridLayout:
+        cols: 1
+        orientation: "vertical"
+        md_bg_color: app.theme_cls.bg_darkest
+        MDBoxLayout
+            size_hint_y: None
+            height: 40
+            Image:
+                source: 'RAS_logo_letras.png'
+                canvas.before:
+                    Color:
+                        rgba: hex('#000000')
+                        # rgba: hex('ffca3a')
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+        MDToolbar:
+            title: "Cotizador"
+            specific_text_color: app.theme_cls.primary_light
+            md_bg_color: app.theme_cls.bg_darkest
+
+        GridLayout:
+            id: Conf_Alt
+            cols:3
+            size_hint:(.1,None)
+            height:(root.height)*0.05*2
+            MDBoxLayout:
+                orientation: "vertical"
+                MyLabel:
+                    text:"Altura"
+                MyTextInput:
+                    id: altura
+                    multiline: False
+                    cursor_width: 3
+            MDBoxLayout:
+                orientation: "vertical"
+                MyLabel:
+                    text:"GSD"
+                MyTextInput:
+                    id: gsd
+                    multiline:False
+                    readonly: True
+            MDBoxLayout:
+                orientation: "vertical"
+                MyLabel:
+                    text:"Espaciamiento"
+                MyTextInput:
+                    id: espaciamiento
+                    multiline:False
+                    readonly: True
+        MDBoxLayout
+            size_hint:(.1,None)
+            height:(root.height)*0.05*.2
+
+        MDBoxLayout
+            orientation: "horizontal"
+            size_hint:(.1,None)
+            height:(root.height)*0.05*1
+            MyLabel:
+                text:"Tarifa x día"
+            MyTextInput:
+                id: tarifa
+                multiline:False
+        MDBoxLayout
+            orientation: "vertical"
+            size_hint:(.1,None)
+            height:(root.height)*0.05*3
+            MyLabel:
+                text:"Geografía ha/día"
+            MDBoxLayout
+                MyLabel:
+                    text:"% Zona Plana"
+                MyLabel:
+                    text:"% Cerros"
+            MDBoxLayout
+                MyTextInput:
+                    id: zona_plana
+                    multiline:False
+                MyTextInput:
+                    id: cerros
+                    multiline:False
+                    readonly: True
+        MDBoxLayout
+            orientation: "vertical"
+            size_hint:(.1,None)
+            height:(root.height)*0.05*3
+            MyLabel:
+                text:"Rendimiento x Altitud"
+            MDBoxLayout
+                MyLabel:
+                    text:"% Hasta 3000 msnm"
+                MyLabel:
+                    text:"% Sobre 3000 msnm"
+            MDBoxLayout
+                MyTextInput:
+                    id: rend_estd
+                    multiline:False
+                MyTextInput:
+                    id: rend_redc
+                    multiline:False
+                    readonly: True
+        MDBoxLayout
+            orientation: 'vertical'
+            size_hint:(.1,None)
+            height:(root.height)*0.05*3
+            MyLabel
+                text:"Rendimiento x Peso"
+            MyTextInput:
+                id:peso
+                multiline:False
+            MDBoxLayout
+                orientation:'horizontal'
+                MyLabel:
+                    text:"2Kg = 100"
+                MyLabel:
+                    text:"4Kg = 50"
+                MyLabel:
+                    text:"6Kg = 25"
+
+        MDBoxLayout
+
+
+        MDRectangleFlatIconButton
+            id: botonazo
+            icon:"cash-usd-outline"
+            size_hint: (.1, None)
+            height: (root.height) * 0.05 * 2
+            text_color: app.theme_cls.primary_light
+            md_bg_color: app.theme_cls.primary_dark
+            text: "Calcular"
+            on_press:
+                root.btn(self)
+            on_release:
+                root.manager.current = 'second'
+<SecondWindow>
+    # Variables
+    tarifa: tarifa
+    rend_tarifa:rend_tarifa
+    semanas:semanas
+    hectareas_min:hectareas_min
+    hectareas_max:hectareas_max
+    km_lineales:km_lineales
+    dias:dias
+    costo:costo
+    costo_ha:costo_ha
+    MDGridLayout:
+        cols: 1
+        orientation: "vertical"
+        md_bg_color: app.theme_cls.bg_darkest
+        MDToolbar:
+            title: "Robotic Air Systems"
+            specific_text_color: app.theme_cls.primary_light
+            md_bg_color: app.theme_cls.bg_darkest
+
+        MDBoxLayout:
+            orientation: "horizontal"
+            size_hint:(.1,None)
+            height:(root.height)*0.05*1
+            MyLabel:
+                text:"Tarifa"
+            MyTextInput:
+                id:tarifa
+                multiline:False
+                readonly: True
+
+        MDBoxLayout
+            size_hint:(.1,None)
+            height:(root.height)*0.05*.2
+
+        MDBoxLayout:
+            orientation: "horizontal"
+            size_hint:(.1,None)
+            height:(root.height)*0.05*1
+            MyLabel:
+                text:"Rendimiento día/ha"
+            MyTextInput:
+                id:rend_tarifa
+                multiline:False
+                readonly: True
+
+        MDBoxLayout
+            size_hint:(.1,None)
+            height:(root.height)*0.05*.2
+
+        MDBoxLayout:
+            size_hint:(.1,None)
+            height:(root.height)*0.05*1
+            MyLabel:
+                text:"Semanas de Plazo"
+            MyTextInput:
+                id:semanas
+                multiline:False
+                readonly: True
+
+        MDBoxLayout
+            size_hint:(.1,None)
+            height:(root.height)*0.05*.2
+
+        MDBoxLayout:
+            orientation: "vertical"
+            size_hint:(.1,None)
+            height:(root.height)*0.05*2
+            MyLabel:
+                text:"Hectareas"
+            GridLayout:
+                cols:2
+                MyTextInput:
+                    id:hectareas_min
+                    multiline:False
+                    readonly: True
+                MyTextInput:
+                    id:hectareas_max
+                    multiline:False
+                    readonly: True
+
+        MDBoxLayout
+            size_hint:(.1,None)
+            height:(root.height)*0.05*.2
+
+        MDBoxLayout:
+            size_hint:(.1,None)
+            height:(root.height)*0.05*1
+            MyLabel:
+                text:"Km Lineales"
+            MyTextInput:
+                id:km_lineales
+                multiline:False
+                readonly: True
+
+        MDBoxLayout
+            size_hint:(.1,None)
+            height:(root.height)*0.05*.2
+            
+        MDBoxLayout:
+            size_hint:(.1,None)
+            height:(root.height)*0.05*1
+            MyLabel:
+                text:"Días"
+            MyTextInput:
+                id:dias
+                multiline:False
+                readonly: True
+
+        MDBoxLayout
+            size_hint:(.1,None)
+            height:(root.height)*0.05*.2
+
+        MDBoxLayout:
+            size_hint:(.1,None)
+            height:(root.height)*0.05*1
+            MyLabel:
+                text:"Costo"
+            MyTextInput:
+                id: costo
+                multiline:False
+                readonly: True
+
+        MDBoxLayout
+            size_hint:(.1,None)
+            height:(root.height)*0.05*.2
+
+        MDBoxLayout:
+            size_hint:(.1,None)
+            height:(root.height)*0.05*1
+            MyLabel:
+                text:"Costo x ha"
+            MyTextInput:
+                id: costo_ha
+                multiline:False
+                readonly: True
+
+        MDBoxLayout
+            size_hint:(.1,None)
+            height:(root.height)*0.05*.2
+
+
+        Button
+            text: "Return"
+            on_press:
+                # root.btn()
+                root.manager.current = 'main'
