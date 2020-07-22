@@ -10,7 +10,7 @@
     md_bg_color: app.theme_cls.primary_dark
 <MyTextInput@MDTextFieldRect>:
     input_filter: 'float'
-    write_tab: False
+    # write_tab: False
     halign: "center"
     # on_text_validate:
     multiline:False
@@ -81,7 +81,9 @@
                             id: altura
                             multiline: False
                             cursor_width: 3
-                            on_text_validate: tarifa.focus = True
+                            on_text_validate:
+                                tarifa.focus = True
+                                # root.btn()
                     MDBoxLayout
                         size_hint:(None,.1)
                         width:(root.width)*0.01
@@ -176,6 +178,7 @@
                     MyTextInput:
                         id:peso
                         multiline:False
+                        on_text_validate: botonazo.focus = True
                     MDBoxLayout
                         orientation:'horizontal'
                         MyLabel:
